@@ -2,6 +2,8 @@
 
 Projeto de extensão desenvolvido na disciplina **Interação Humano-Computador (IHC)**, da Universidade Federal do Ceará (UFC), com foco na investigação de dificuldades relacionadas ao ensino, à produção e ao acompanhamento de redações no Ensino Médio.
 
+Professor(a): Ingrid Teixeira Monteiro
+
 ## 📌 Sobre o projeto
 
 O projeto surgiu a partir da investigação dos desafios enfrentados por professores e estudantes durante o processo de produção textual.
